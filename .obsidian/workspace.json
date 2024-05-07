@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "599c6b5c15112e62",
+    "type": "split",
+    "children": [
+      {
+        "id": "70d4ceed03142260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "361221ce802d8aac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selenium/240417 WebDriver 실습.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f143d808cdb8c92",
+    "type": "split",
+    "children": [
+      {
+        "id": "035689f0ef133b9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f45a274ae6286c74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40bb75859399a652",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31c05b45fa5e6693",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "702f548f2d7a259f",
+    "type": "split",
+    "children": [
+      {
+        "id": "72f4bb27483af669",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0689d76ed53d03d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Selenium/240417 WebDriver 실습.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d352d1c2b18b2b10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Selenium/240417 WebDriver 실습.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fb29b2ad237325b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9cff2a8fb43afc12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Selenium/240417 WebDriver 실습.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "361221ce802d8aac",
+  "lastOpenFiles": [
+    "Selenium/240417 Selenium 시작하기.md",
+    "Selenium/240417 WebDriver 실습.md",
+    "Pasted image 20240417171719.png",
+    "Appium/Appium.md",
+    "Selenium",
+    "Welcome.md",
+    "create a link.md",
+    "Appium"
+  ]
+}
