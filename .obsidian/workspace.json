@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selenium/240417 WebDriver 실습.md",
+                "file": "Selenium/240509 Chrome 창 활용.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selenium/240417 WebDriver 실습.md",
+                "file": "Selenium/240509 Chrome 창 활용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selenium/240417 WebDriver 실습.md",
+                "file": "Selenium/240509 Chrome 창 활용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selenium/240417 WebDriver 실습.md"
+                "file": "Selenium/240509 Chrome 창 활용.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "361221ce802d8aac",
   "lastOpenFiles": [
-    "Selenium/240417 Selenium 시작하기.md",
     "Selenium/240417 WebDriver 실습.md",
-    "Pasted image 20240417171719.png",
+    "Selenium/240509 Chrome 창 활용.md",
+    "Selenium/240417 Selenium 시작하기.md",
     "Appium/Appium.md",
+    "README.md",
+    "Pasted image 20240417171719.png",
     "Selenium",
     "Welcome.md",
     "create a link.md",
