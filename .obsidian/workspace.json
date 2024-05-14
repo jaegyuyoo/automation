@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4cd146202aa469a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selenium/240515 Chrome 창 활용 (크기, 정보).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selenium/240509 Chrome 창 활용.md",
+                "file": "Selenium/240515 Chrome 창 활용 (크기, 정보).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selenium/240509 Chrome 창 활용.md",
+                "file": "Selenium/240515 Chrome 창 활용 (크기, 정보).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selenium/240509 Chrome 창 활용.md"
+                "file": "Selenium/240515 Chrome 창 활용 (크기, 정보).md"
               }
             }
           }
@@ -146,10 +159,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "361221ce802d8aac",
+  "active": "f4cd146202aa469a",
   "lastOpenFiles": [
-    "Selenium/240417 WebDriver 실습.md",
     "Selenium/240509 Chrome 창 활용.md",
+    "Selenium/240515 Chrome 창 활용 (크기, 정보).md",
+    "Pasted image 20240514171459.png",
+    "Selenium/240417 WebDriver 실습.md",
     "Selenium/240417 Selenium 시작하기.md",
     "Appium/Appium.md",
     "README.md",
