@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UiPath/240520 Setup.md",
+                "file": "UiPath/240520 기본 사용.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UiPath/240520 Setup.md",
+                "file": "UiPath/240520 기본 사용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UiPath/240520 Setup.md",
+                "file": "UiPath/240520 기본 사용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UiPath/240520 Setup.md"
+                "file": "UiPath/240520 기본 사용.md"
               }
             }
           }
@@ -148,31 +148,30 @@
   },
   "active": "588b8644d6c81615",
   "lastOpenFiles": [
-    "Pasted image 20240520114559.png",
-    "UiPath/240520 기본 사용.md",
+    "Selenium/240517 검색창 활용.md",
     "UiPath/240520 01_변수.md",
-    "Pasted image 20240520131845.png",
+    "UiPath/240520 기본 사용.md",
+    "UiPath/240520 Setup.md",
     "Pasted image 20240520131842.png",
     "Pasted image 20240520130618.png",
     "Pasted image 20240520130606.png",
     "Pasted image 20240520130552.png",
     "Pasted image 20240520130200.png",
+    "Pasted image 20240520114559.png",
+    "Pasted image 20240520131845.png",
+    "Selenium/240417 WebDriver 실습.md",
+    "Selenium/240509 Chrome 창 활용.md",
+    "Selenium/240516 페이지 이동.md",
+    "Selenium/240514 Chrome 창 활용 (크기, 정보).md",
+    "Selenium/240417 Selenium 시작하기.md",
     "Pasted image 20240520130137.png",
     "Pasted image 20240520120125.png",
     "Pasted image 20240520115658.png",
-    "Pasted image 20240520115656.png",
-    "UiPath/240520 Setup.md",
     "UiPath",
     "무제 파일.md",
     "무제 파일 1.md",
     "UiPath 1.md",
-    "Selenium/240509 Chrome 창 활용.md",
-    "Selenium/240517 검색창 활용.md",
     "Appium/Appium.md",
-    "Selenium/240516 페이지 이동.md",
-    "Selenium/240514 Chrome 창 활용 (크기, 정보).md",
-    "Selenium/240417 WebDriver 실습.md",
-    "Selenium/240417 Selenium 시작하기.md",
     "README.md",
     "Selenium",
     "Welcome.md",
