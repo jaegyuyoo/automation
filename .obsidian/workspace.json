@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UiPath/240520 기본 사용.md",
+                "file": "UiPath/240521 02_브라우저자동화.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UiPath/240520 기본 사용.md",
+                "file": "UiPath/240521 02_브라우저자동화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UiPath/240520 기본 사용.md",
+                "file": "UiPath/240521 02_브라우저자동화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UiPath/240520 기본 사용.md"
+                "file": "UiPath/240521 02_브라우저자동화.md"
               }
             }
           }
@@ -146,12 +146,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "588b8644d6c81615",
+  "active": "f45a274ae6286c74",
   "lastOpenFiles": [
-    "Selenium/240517 검색창 활용.md",
-    "UiPath/240520 01_변수.md",
+    "UiPath/240521 01_변수의다양한타입.md",
+    "UiPath/240521 02_브라우저자동화.md",
     "UiPath/240520 기본 사용.md",
+    "Pasted image 20240521114810.png",
     "UiPath/240520 Setup.md",
+    "UiPath/240520 01_변수.md",
+    "Selenium/240517 검색창 활용.md",
     "Pasted image 20240520131842.png",
     "Pasted image 20240520130618.png",
     "Pasted image 20240520130606.png",
@@ -166,7 +169,6 @@
     "Selenium/240417 Selenium 시작하기.md",
     "Pasted image 20240520130137.png",
     "Pasted image 20240520120125.png",
-    "Pasted image 20240520115658.png",
     "UiPath",
     "무제 파일.md",
     "무제 파일 1.md",
