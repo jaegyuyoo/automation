@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UiPath/240521 02_브라우저자동화.md",
+                "file": "UiPath/240523 03_01_ACME_Login.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 478.5
   },
   "right": {
     "id": "702f548f2d7a259f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UiPath/240521 02_브라우저자동화.md",
+                "file": "UiPath/240523 03_01_ACME_Login.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UiPath/240521 02_브라우저자동화.md",
+                "file": "UiPath/240523 03_01_ACME_Login.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UiPath/240521 02_브라우저자동화.md"
+                "file": "UiPath/240523 03_01_ACME_Login.md"
               }
             }
           }
@@ -146,14 +146,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f45a274ae6286c74",
+  "active": "588b8644d6c81615",
   "lastOpenFiles": [
-    "UiPath/240521 01_변수의다양한타입.md",
-    "UiPath/240521 02_브라우저자동화.md",
+    "UiPath/240521 01_이론_02_브라우저자동화_모던.md",
+    "UiPath/240522 01_이론_02_브라우저자동화_클래식.md",
+    "UiPath/240522 02_실습_02_브라우저자동화_반복문.md",
+    "UiPath/240521 01_이론_01_변수의다양한타입.md",
+    "UiPath/240522 02_실습_02_브라우저자동화_반복문_클래식.md",
+    "UiPath/240523 03_01_ACME_Login.md",
+    "UiPath/240520 01_이론_01_변수.md",
+    "Pasted image 20240522100601.png",
     "UiPath/240520 기본 사용.md",
     "Pasted image 20240521114810.png",
     "UiPath/240520 Setup.md",
-    "UiPath/240520 01_변수.md",
     "Selenium/240517 검색창 활용.md",
     "Pasted image 20240520131842.png",
     "Pasted image 20240520130618.png",
@@ -168,7 +173,6 @@
     "Selenium/240514 Chrome 창 활용 (크기, 정보).md",
     "Selenium/240417 Selenium 시작하기.md",
     "Pasted image 20240520130137.png",
-    "Pasted image 20240520120125.png",
     "UiPath",
     "무제 파일.md",
     "무제 파일 1.md",
