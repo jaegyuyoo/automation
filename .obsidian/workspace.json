@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UiPath/240523 03_01_ACME_Login.md",
+                "file": "UiPath/240523 01_이론_03_DT추출_네이버코스피.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UiPath/240523 03_01_ACME_Login.md",
+                "file": "UiPath/240523 01_이론_03_DT추출_네이버코스피.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UiPath/240523 03_01_ACME_Login.md",
+                "file": "UiPath/240523 01_이론_03_DT추출_네이버코스피.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UiPath/240523 03_01_ACME_Login.md"
+                "file": "UiPath/240523 01_이론_03_DT추출_네이버코스피.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "588b8644d6c81615",
   "lastOpenFiles": [
+    "UiPath/240522-23 03_01_ACME_Login.md",
+    "UiPath/240523 01_이론_03_DT추출_네이버코스피.md",
     "UiPath/240521 01_이론_02_브라우저자동화_모던.md",
     "UiPath/240522 01_이론_02_브라우저자동화_클래식.md",
     "UiPath/240522 02_실습_02_브라우저자동화_반복문.md",
     "UiPath/240521 01_이론_01_변수의다양한타입.md",
     "UiPath/240522 02_실습_02_브라우저자동화_반복문_클래식.md",
-    "UiPath/240523 03_01_ACME_Login.md",
     "UiPath/240520 01_이론_01_변수.md",
     "Pasted image 20240522100601.png",
     "UiPath/240520 기본 사용.md",
