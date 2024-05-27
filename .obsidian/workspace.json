@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UiPath/240524 01_이론_03_DT추출_네이버뉴스.md",
+                "file": "UiPath/240527 03_ACME_DT추출.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UiPath/240524 01_이론_03_DT추출_네이버뉴스.md",
+                "file": "UiPath/240527 03_ACME_DT추출.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UiPath/240524 01_이론_03_DT추출_네이버뉴스.md",
+                "file": "UiPath/240527 03_ACME_DT추출.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UiPath/240524 01_이론_03_DT추출_네이버뉴스.md"
+                "file": "UiPath/240527 03_ACME_DT추출.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "588b8644d6c81615",
+  "active": "f45a274ae6286c74",
   "lastOpenFiles": [
-    "Pasted image 20240524120921.png",
+    "Pasted image 20240527124556.png",
+    "UiPath/240527 03_ACME_DT추출.md",
     "UiPath/240524 01_이론_03_DT추출_네이버뉴스.md",
+    "Pasted image 20240524120921.png",
     "UiPath/240522 01_이론_02_브라우저자동화_클래식.md",
     "UiPath/240522 02_실습_02_브라우저자동화_반복문.md",
     "UiPath/240522-23 03_01_ACME_Login.md",
@@ -169,7 +171,6 @@
     "Pasted image 20240520130552.png",
     "Pasted image 20240520130200.png",
     "Pasted image 20240520114559.png",
-    "Pasted image 20240520131845.png",
     "Selenium/240417 WebDriver 실습.md",
     "Selenium/240509 Chrome 창 활용.md",
     "Selenium/240516 페이지 이동.md",
