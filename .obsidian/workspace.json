@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UiPath/240529 01_이론_04_문자열가공_2.md",
+                "file": "UiPath/240530 03_ACME_04_ACME_세부정보추출.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UiPath/240529 01_이론_04_문자열가공_2.md",
+                "file": "UiPath/240530 03_ACME_04_ACME_세부정보추출.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UiPath/240529 01_이론_04_문자열가공_2.md",
+                "file": "UiPath/240530 03_ACME_04_ACME_세부정보추출.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UiPath/240529 01_이론_04_문자열가공_2.md"
+                "file": "UiPath/240530 03_ACME_04_ACME_세부정보추출.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "0ebc39c98b635d91",
   "lastOpenFiles": [
+    "UiPath/240530 03_ACME_04_ACME_세부정보추출 1.md",
+    "UiPath/240530 03_ACME_04_ACME_세부정보추출.md",
+    "UiPath/240528 01_이론_04_문자열가공.md",
     "UiPath/240527 03_ACME_03_ACME_DT추출.md",
     "UiPath/240522 02_실습_02_브라우저자동화_반복문_클래식.md",
-    "UiPath/240528 01_이론_04_문자열가공.md",
-    "UiPath/240529 01_이론_04_문자열가공_2.md",
     "Pasted image 20240528121331.png",
     "UiPath/240524 01_이론_03_DT추출_네이버뉴스.md",
     "UiPath/240522-23 03_01_ACME_Login.md",
@@ -185,7 +186,6 @@
     "Appium/Appium.md",
     "README.md",
     "Selenium",
-    "Welcome.md",
     "Appium"
   ]
 }
