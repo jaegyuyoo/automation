@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UiPath/240604 인수.md",
+                "file": "UiPath/240605 (과제2) RPA02_우편번호일치여부_유재규.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UiPath/240604 인수.md",
+                "file": "UiPath/240605 (과제2) RPA02_우편번호일치여부_유재규.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UiPath/240604 인수.md",
+                "file": "UiPath/240605 (과제2) RPA02_우편번호일치여부_유재규.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UiPath/240604 인수.md"
+                "file": "UiPath/240605 (과제2) RPA02_우편번호일치여부_유재규.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "0ebc39c98b635d91",
   "lastOpenFiles": [
-    "UiPath/240603 03_ACME_06_ACME_Update.md",
     "UiPath/240604 인수.md",
+    "UiPath/240605 (과제2) RPA02_우편번호일치여부_유재규.md",
+    "UiPath/240603 03_ACME_06_ACME_Update.md",
     "UiPath/240603 (과제) RPA01_국립공원_JoinDT_유재규.md",
     "UiPath/240530 03_ACME_04_ACME_세부정보추출.md",
     "UiPath/240530 03_ACME_04_ACME_세부정보추출 1.md",
@@ -184,7 +185,6 @@
     "Selenium/240417 Selenium 시작하기.md",
     "UiPath",
     "무제 파일.md",
-    "무제 파일 1.md",
     "Selenium",
     "Appium"
   ]
