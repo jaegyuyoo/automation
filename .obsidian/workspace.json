@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UiPath/240612 (과제3) RPA03_시험결과집계_유재규.md",
+                "file": "UiPath/240613 99_Mail_03_HTML변환.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UiPath/240612 (과제3) RPA03_시험결과집계_유재규.md",
+                "file": "UiPath/240613 99_Mail_03_HTML변환.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UiPath/240612 (과제3) RPA03_시험결과집계_유재규.md",
+                "file": "UiPath/240613 99_Mail_03_HTML변환.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UiPath/240612 (과제3) RPA03_시험결과집계_유재규.md"
+                "file": "UiPath/240613 99_Mail_03_HTML변환.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "0ebc39c98b635d91",
   "lastOpenFiles": [
+    "UiPath/240612 (과제3) RPA03_시험결과집계_유재규.md",
+    "UiPath/240613 99_Mail_03_HTML변환.md",
     "Pasted image 20240612150819.png",
     "UiPath/240612 ACME Advanced.md",
-    "UiPath/240612 (과제3) RPA03_시험결과집계_유재규.md",
     "UiPath/240605 (과제2) RPA02_우편번호일치여부_유재규.md",
     "UiPath/240603 (과제1) RPA01_국립공원_JoinDT_유재규.md",
     "UiPath/240604 인수.md",
@@ -180,7 +181,6 @@
     "Pasted image 20240520130618.png",
     "Pasted image 20240520130606.png",
     "Pasted image 20240520130552.png",
-    "Pasted image 20240520130200.png",
     "Selenium/240417 WebDriver 실습.md",
     "Selenium/240509 Chrome 창 활용.md",
     "Selenium/240516 페이지 이동.md",
