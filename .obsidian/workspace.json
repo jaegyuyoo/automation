@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UiPath/240619 Extract Table Data 타겟팅 방법 설정.md",
+                "file": "UiPath/240620 (과제) RPA05_국립공원_유재규.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UiPath/240619 Extract Table Data 타겟팅 방법 설정.md",
+                "file": "UiPath/240620 (과제) RPA05_국립공원_유재규.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UiPath/240619 Extract Table Data 타겟팅 방법 설정.md",
+                "file": "UiPath/240620 (과제) RPA05_국립공원_유재규.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UiPath/240619 Extract Table Data 타겟팅 방법 설정.md"
+                "file": "UiPath/240620 (과제) RPA05_국립공원_유재규.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "9d59f2ba3eb7747a",
   "lastOpenFiles": [
-    "UiPath/240618 Try~Catch, Retry Scope.md",
     "UiPath/240619 Extract Table Data 타겟팅 방법 설정.md",
+    "UiPath/240620 (과제) RPA05_국립공원_유재규.md",
+    "UiPath/240618 Try~Catch, Retry Scope.md",
     "UiPath/240614 Adv_(과제3) RPA03_시험결과집계_유재규.md",
     "UiPath/240613 99_Mail_03_HTML변환.md",
     "UiPath/240612 (과제3) RPA03_시험결과집계_유재규.md",
@@ -192,7 +193,6 @@
     "UiPath/240520 기본 사용.md",
     "Pasted image 20240521114810.png",
     "UiPath/240520 Setup.md",
-    "Selenium/240517 검색창 활용.md",
     "Pasted image 20240520131842.png",
     "Pasted image 20240520130618.png",
     "Pasted image 20240520130606.png",
