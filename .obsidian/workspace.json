@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UiPath/240705 (과제) RPA07_티켓랭킹_유재규.md",
+                "file": "UiPath/240710 01_이론_06_PDF자동화.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UiPath/240705 (과제) RPA07_티켓랭킹_유재규.md",
+                "file": "UiPath/240710 01_이론_06_PDF자동화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UiPath/240705 (과제) RPA07_티켓랭킹_유재규.md",
+                "file": "UiPath/240710 01_이론_06_PDF자동화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UiPath/240705 (과제) RPA07_티켓랭킹_유재규.md"
+                "file": "UiPath/240710 01_이론_06_PDF자동화.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "30f2069a97678446",
   "lastOpenFiles": [
-    "Pasted image 20240705135714.png",
+    "Pasted image 20240710142614.png",
+    "UiPath/240710 01_이론_06_PDF자동화.md",
     "UiPath/240705 (과제) RPA07_티켓랭킹_유재규.md",
+    "Pasted image 20240705135714.png",
     "UiPath/240625 (과제) RPA06_부동산공시가격_유재규.md",
     "UiPath/240620 (과제) RPA05_국립공원_유재규.md",
     "UiPath/240618 Try~Catch, Retry Scope.md",
@@ -177,12 +179,10 @@
     "UiPath/240522 01_이론_02_브라우저자동화_클래식.md",
     "UiPath/240522 02_실습_02_브라우저자동화_반복문.md",
     "UiPath/240523 01_이론_03_DT추출_네이버코스피.md",
-    "UiPath/240521 01_이론_02_브라우저자동화_모던.md",
     "Pasted image 20240522100601.png",
     "Pasted image 20240521114810.png",
     "Pasted image 20240520131842.png",
     "Pasted image 20240520130618.png",
-    "Pasted image 20240520130606.png",
     "UiPath",
     "Selenium",
     "Appium"
