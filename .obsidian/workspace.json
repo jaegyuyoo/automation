@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UiPath/240710 01_이론_06_PDF자동화.md",
+                "file": "UiPath/(상시) 자주볼것!.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UiPath/240710 01_이론_06_PDF자동화.md",
+                "file": "UiPath/(상시) 자주볼것!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UiPath/240710 01_이론_06_PDF자동화.md",
+                "file": "UiPath/(상시) 자주볼것!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UiPath/240710 01_이론_06_PDF자동화.md"
+                "file": "UiPath/(상시) 자주볼것!.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "30f2069a97678446",
   "lastOpenFiles": [
-    "Pasted image 20240710142614.png",
+    "UiPath/240710 RE-Framwork.md",
+    "UiPath/240710 RE-Framework_티켓랭킹_유재규.md",
+    "Pasted image 20240710160731.png",
+    "UiPath/(상시) 자주볼것!.md",
     "UiPath/240710 01_이론_06_PDF자동화.md",
+    "Pasted image 20240710142614.png",
     "UiPath/240705 (과제) RPA07_티켓랭킹_유재규.md",
     "Pasted image 20240705135714.png",
     "UiPath/240625 (과제) RPA06_부동산공시가격_유재규.md",
@@ -176,13 +180,9 @@
     "UiPath/240522-23 03_01_ACME_Login.md",
     "Pasted image 20240527124556.png",
     "Pasted image 20240524120921.png",
-    "UiPath/240522 01_이론_02_브라우저자동화_클래식.md",
-    "UiPath/240522 02_실습_02_브라우저자동화_반복문.md",
-    "UiPath/240523 01_이론_03_DT추출_네이버코스피.md",
     "Pasted image 20240522100601.png",
     "Pasted image 20240521114810.png",
     "Pasted image 20240520131842.png",
-    "Pasted image 20240520130618.png",
     "UiPath",
     "Selenium",
     "Appium"
