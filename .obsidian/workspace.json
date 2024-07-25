@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UiPath_REF/240723 (과제_포폴) RPA06_AirportSKD_유재규.md",
+                "file": "UiPath/(상시) 자주볼것!.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UiPath_REF/240723 (과제_포폴) RPA06_AirportSKD_유재규.md",
+                "file": "UiPath/(상시) 자주볼것!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UiPath_REF/240723 (과제_포폴) RPA06_AirportSKD_유재규.md",
+                "file": "UiPath/(상시) 자주볼것!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UiPath_REF/240723 (과제_포폴) RPA06_AirportSKD_유재규.md"
+                "file": "UiPath/(상시) 자주볼것!.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "c43f9cb9488a5418",
   "lastOpenFiles": [
-    "UiPath_REF/240722 (과제_포폴) RPA09_외교부레포트_유재규.md",
+    "UiPath/2407245 무인로봇설치.md",
+    "Pasted image 20240725123755.png",
     "UiPath_REF/240723 (과제_포폴) RPA06_AirportSKD_유재규.md",
+    "UiPath_REF/240722 (과제_포폴) RPA09_외교부레포트_유재규.md",
     "UiPath_REF/240717 (과제_포폴) RPA08_견적서메일발송_유재규.md",
     "UiPath/240724 Flow Chart.md",
     "UiPath/240723 VBA연습.md",
@@ -176,15 +178,12 @@
     "UiPath/240520 Setup.md",
     "UiPath/240520 기본 사용.md",
     "Pasted image 20240710160731.png",
-    "Pasted image 20240710142614.png",
     "UiPath/240703 RPA.md",
     "UiPath/240613 99_Mail_03_HTML변환.md",
     "UiPath/240612 (과제3) RPA03_시험결과집계_유재규.md",
     "UiPath/240612 ACME Advanced.md",
     "UiPath/240605 (과제2) RPA02_우편번호일치여부_유재규.md",
     "UiPath/240603 (과제1) RPA01_국립공원_JoinDT_유재규.md",
-    "UiPath/240604 인수.md",
-    "UiPath/240603 03_ACME_06_ACME_Update.md",
     "UiPath",
     "Selenium",
     "Appium"
