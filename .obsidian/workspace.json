@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UiPath/(상시) 자주볼것!.md",
+                "file": "UiPath/240725 무인로봇설치.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UiPath/(상시) 자주볼것!.md",
+                "file": "UiPath/240725 무인로봇설치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UiPath/(상시) 자주볼것!.md",
+                "file": "UiPath/240725 무인로봇설치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UiPath/(상시) 자주볼것!.md"
+                "file": "UiPath/240725 무인로봇설치.md"
               }
             }
           }
@@ -148,13 +148,19 @@
   },
   "active": "c43f9cb9488a5418",
   "lastOpenFiles": [
-    "UiPath/2407245 무인로봇설치.md",
-    "Pasted image 20240725123755.png",
-    "UiPath_REF/240723 (과제_포폴) RPA06_AirportSKD_유재규.md",
-    "UiPath_REF/240722 (과제_포폴) RPA09_외교부레포트_유재규.md",
-    "UiPath_REF/240717 (과제_포폴) RPA08_견적서메일발송_유재규.md",
+    "UiPath/240520 Setup.md",
+    "UiPath/240520 01_이론_01_변수.md",
+    "UiPath/240725 Click 이벤트.md",
+    "UiPath/240725 Throw, Rethrow.md",
+    "UiPath/240725 무인로봇설치.md",
     "UiPath/240724 Flow Chart.md",
     "UiPath/240723 VBA연습.md",
+    "UiPath/240618 Try~Catch, Retry Scope.md",
+    "UiPath/(상시) 자주볼것!.md",
+    "UiPath_REF/240723 (과제_포폴) RPA06_AirportSKD_유재규.md",
+    "Pasted image 20240725123755.png",
+    "UiPath_REF/240722 (과제_포폴) RPA09_외교부레포트_유재규.md",
+    "UiPath_REF/240717 (과제_포폴) RPA08_견적서메일발송_유재규.md",
     "Pasted image 20240723133037.png",
     "UiPath_REF/240710 RE-Framework_티켓랭킹_유재규.md",
     "UiPath/240625 (과제) RPA06_부동산공시가격_유재규.md",
@@ -166,16 +172,12 @@
     "Pasted image 20240722173719.png",
     "Pasted image 20240722173521.png",
     "UiPath/240614 Adv_(과제3) RPA03_시험결과집계_유재규.md",
-    "UiPath/240618 Try~Catch, Retry Scope.md",
     "UiPath/240620 (과제) RPA05_국립공원_유재규.md",
     "UiPath/240619 Extract Table Data 타겟팅 방법 설정.md",
-    "UiPath/(상시) 자주볼것!.md",
-    "UiPath/240520 01_이론_01_변수.md",
     "Pasted image 20240717223315.png",
     "Pasted image 20240717223243.png",
     "Pasted image 20240717221823.png",
     "Pasted image 20240717221635.png",
-    "UiPath/240520 Setup.md",
     "UiPath/240520 기본 사용.md",
     "Pasted image 20240710160731.png",
     "UiPath/240703 RPA.md",
@@ -183,7 +185,6 @@
     "UiPath/240612 (과제3) RPA03_시험결과집계_유재규.md",
     "UiPath/240612 ACME Advanced.md",
     "UiPath/240605 (과제2) RPA02_우편번호일치여부_유재규.md",
-    "UiPath/240603 (과제1) RPA01_국립공원_JoinDT_유재규.md",
     "UiPath",
     "Selenium",
     "Appium"
